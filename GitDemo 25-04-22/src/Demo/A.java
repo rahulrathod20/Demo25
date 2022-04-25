@@ -24,6 +24,7 @@ public class A {
 		A a=new A();
 		 a.m1();
 		 a.m2();
+		a.m3();
 		
 	}
 }

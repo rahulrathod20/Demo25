@@ -17,6 +17,11 @@ public class A {
 		System.out.println("git m3 method");
 	}
 	
+	public void m4()
+	{
+		System.out.println("git m4 method");
+	}
+	
 	public static void main(String[] args) {
 		
 		System.out.println("main method");
@@ -25,6 +30,7 @@ public class A {
 		 a.m1();
 		 a.m2();
 		a.m3();
+		a.m4();
 		
 	}
 }
